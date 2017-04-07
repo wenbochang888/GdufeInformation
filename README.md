@@ -20,3 +20,5 @@ ps.
 2：直接运行gdufeInformation.py文件就可以了
 
 3：亲测爬一页大概20s（真tm慢）
+
+![Image text](https://github.com/wenbochang888/gdufeInformation/blob/master/0.png)
