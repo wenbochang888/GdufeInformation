@@ -22,3 +22,7 @@ ps.
 3：亲测爬一页大概20s（真tm慢）
 
 ![Image text](https://github.com/wenbochang888/gdufeInformation/blob/master/0.png)
+
+![Image text](https://github.com/wenbochang888/gdufeInformation/blob/master/1.png)
+
+![Image text](https://github.com/wenbochang888/gdufeInformation/blob/master/2.png)
