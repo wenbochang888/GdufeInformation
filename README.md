@@ -1,6 +1,6 @@
 # 广东财经大学全部学生的信息
 
-2017年4月7日15:13:40
+##2017年4月7日15:13:40
 
 环境：python2.7
 
@@ -15,7 +15,8 @@
 4：'grade':'2016' while里面的grade表示年纪. 2016级大概3000页，2015级好像7000多（哭死）
 
 
-2017年4月12日13:13:39
+
+##2017年4月12日13:13:39
 
 昨天无聊的时候再看素拓系统，发觉抓取了很多重复的元素，所以导致了抓取速度十分的慢
 
@@ -27,7 +28,7 @@
 
 抓取速率很提高很多。这让我意识到了算法的重要性，所以大家搞好算法啊。
 
-ps.
+##ps.
 
 1：爬虫效率有点慢，用了几个模块，可用python自带的pip安装
 
@@ -40,3 +41,9 @@ ps.
 ![Image text](https://github.com/wenbochang888/gdufeInformation/blob/master/1.png)
 
 ![Image text](https://github.com/wenbochang888/gdufeInformation/blob/master/2.png)
+
+![Image text](https://github.com/wenbochang888/GdufeInformation/blob/master/3.png)
+
+![Image text](https://github.com/wenbochang888/GdufeInformation/blob/master/4.png)
+
+![Image text](https://github.com/wenbochang888/GdufeInformation/blob/master/5.png)
