@@ -22,7 +22,7 @@ class crowInformation(object):
 		cj = cookielib.CookieJar()
 		self.opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
 		urllib2.install_opener(self.opener)
-
+ 
 	def usernamePass(self):
 		self.username = raw_input("please enter usernmae: ")
 		self.password = raw_input('please enter password: ')
